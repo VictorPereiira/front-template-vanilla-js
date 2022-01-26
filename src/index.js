@@ -1,5 +1,5 @@
-import _ from 'lodash';
-import './styles/app.css';
+// import _ from 'lodash';
+import './styles/app.scss';
 import App from './app.js';
 
 

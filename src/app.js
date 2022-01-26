@@ -1,6 +1,10 @@
+import pageHomePage from "./pages/homePage/index.js";
+
 function App() {
     return /*html*/ `
-        <div id="root">Home Page</div>
+        <div id="root">
+            ${pageHomePage}
+        </div>
     `
 }
 
